@@ -10,3 +10,7 @@ C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong
 C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.dll
 C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\ref\Ping-Pong.dll
 C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.pdb
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\bin\Debug\net5.0\Ping-Pong.exe
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\bin\Debug\net5.0\Ping-Pong.runtimeconfig.json
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\bin\Debug\net5.0\Ping-Pong.runtimeconfig.dev.json
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.genruntimeconfig.cache
