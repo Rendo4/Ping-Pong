@@ -1,0 +1,12 @@
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\bin\Debug\net5.0\Ping-Pong.deps.json
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\bin\Debug\net5.0\Ping-Pong.dll
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\bin\Debug\net5.0\ref\Ping-Pong.dll
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\bin\Debug\net5.0\Ping-Pong.pdb
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.csproj.AssemblyReference.cache
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.AssemblyInfoInputs.cache
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.AssemblyInfo.cs
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.csproj.CoreCompileInputs.cache
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.dll
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\ref\Ping-Pong.dll
+C:\Users\maste\documents\ping-pong.solution\Ping-Pong\obj\Debug\net5.0\Ping-Pong.pdb
